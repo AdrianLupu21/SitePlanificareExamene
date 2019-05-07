@@ -1,0 +1,25 @@
+body{
+  /* background: url("https://i.ytimg.com/vi/cU5naff4pOQ/maxresdefault.jpg"); */
+  background: url("http://sfwallpaper.com/images/spring-flower-background-2.jpg");
+}
+.selection{
+  display: block;
+  margin-bottom: 20px;
+}
+label{
+  display:inline;
+}
+#press{
+  margin-top:10px;
+}
+#contain{
+  background-color: #fff;
+  margin-top: 30px;
+}
+
+button{
+  margin-right: 30px;
+}
+h1{
+  text-align: center;
+}
