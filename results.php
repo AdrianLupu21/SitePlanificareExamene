@@ -104,4 +104,6 @@ function countTheElements($arr,$j,$value,$length){
   }
   return $s;
 }
-  ?>
+?>
+
+//comment
